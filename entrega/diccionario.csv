@@ -1,1 +1,4 @@
 archivo,columna,encabezado_literal,tipo,descripcion,unidad,dominio,observaciones
+salida/resultado.csv,A,a,integer,Valor ficticio a,,,
+salida/resultado.csv,B,b,integer,Valor ficticio b,,,
+salida/resultado.csv,C,suma,integer,Suma de a y b,,,

@@ -1,3 +1,5 @@
+> **Repositorio de ejemplo con datos ficticios.** Muestra cómo se ve una entrega completa.
+
 # Entrega de tu equipo
 
 Este repositorio es **la entrega de tu equipo** en el datatón urbano de preparación de datos. No necesitas saber programar.

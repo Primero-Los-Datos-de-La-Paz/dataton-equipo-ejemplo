@@ -2,9 +2,9 @@
 
 | Campo | Valor |
 |---|---|
-| Fuente | |
-| Responsable del dato | |
-| Periodicidad | |
+| Fuente | Datos sintéticos de demostración |
+| Responsable del dato | Organización del datatón (ejemplo) |
+| Periodicidad | Única |
 | Fecha de obtención | |
 | Licencia o términos | |
 
@@ -16,6 +16,4 @@
 
 ## Cambios
 
-Lista cada cambio que hiciste, en orden, y dónde está el procedimiento (script o paso manual).
-
-1.
+1. `scripts/01_sumar.py` agrega la columna `suma` = a + b.

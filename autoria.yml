@@ -1,10 +1,8 @@
-# Integrantes del equipo y consentimiento de mención.
-# Este repositorio es privado. Solo se mencionará públicamente a quien marque consiente_mencion: true.
-# No escribas teléfonos, cédulas ni correos personales.
-equipo_id: null
-nombre_equipo: null
+# EJEMPLO con datos ficticios. No corresponde a ningún equipo real.
+equipo_id: "00"
+nombre_equipo: "Equipo de ejemplo (ficticio)"
 integrantes:
-  - nombre_para_mencion: null    # cómo quieres aparecer en el reconocimiento público
+  - nombre_para_mencion: "Persona Ficticia A"
     usuario_github: null
-    rol: null                    # por ejemplo: datos, territorio, documentación, sector
-    consiente_mencion: false     # true si aceptas que tu nombre aparezca en el reconocimiento y en el portafolio
+    rol: datos
+    consiente_mencion: false
